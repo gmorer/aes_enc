@@ -1,5 +1,5 @@
 # AES_EN
-simple enc/dec - ryption using the AES intruction from intel in assembly.
+simple {enc,dec}ryption using the AES intruction from intel in assembly.
 The program will generate a random aes-128 key.
 ```bash
 $ make
